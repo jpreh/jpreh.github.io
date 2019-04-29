@@ -29,8 +29,8 @@ author:
 
 # Build settings
 markdown: kramdown
-#theme: jekyll-theme-hydejack
-remote_theme: qwtel/hydejack
+theme: jekyll-theme-hydejack
+#remote_theme: qwtel/hydejack
 plugins:
   - jekyll-feed
 
@@ -58,7 +58,7 @@ exclude:
 #  - url: /experience/
 
 # in footer of every page:
-copyright: © 2019. All rights reserved.
+copyright: © Jonathan Preheim 2019. All rights reserved.
 
 # Sidebar image and theme color of the site
 accent_image: /sunrise.jpg
