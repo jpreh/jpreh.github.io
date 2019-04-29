@@ -21,6 +21,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jpreh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jpreh
 
+# author info
+author:
+  - name: Jonathan Preheim
+  - email: jonathan.preheim@gmail.com
+#  - picture: 
+
 # Build settings
 markdown: kramdown
 #theme: jekyll-theme-hydejack
