@@ -66,4 +66,4 @@ accent_image: /sunrise.jpg
 
 # Hydejack settings:
 hydejack:
-  no_drawer: true
+  no_drawer: false
