@@ -41,12 +41,23 @@ exclude:
   - vendor/ruby/
 
 # Add links to the sidebar
-menu:
-  - title: Resume
-  - url: /resume/
-  - title: Projects
-  - url: /projects/
-  - title: Writing
-  - url: /writing/
-  - title: Experience
-  - url: /experience/
+#menu:
+#  - title: Resume
+#  - url: /resume/
+#  - title: Projects
+#  - url: /projects/
+#  - title: Writing
+#  - url: /writing/
+#  - title: Experience
+#  - url: /experience/
+
+# in footer of every page:
+copyright: © 2019. All rights reserved.
+
+# Sidebar image and theme color of the site
+accent_image: /assets/img/sidebar-bg.jpg
+#accent_color: rgb(79,177,186)
+
+# Hydejack settings:
+hydejack:
+  no_drawer: true
